@@ -6,6 +6,8 @@
 예선 주제 : 데이터를 통한 집값 예측
 결선 주제 : 신문기사 주제 classificaiton(nlp)
 
+발표 ppt는 위 발표 자료 폴더에 있습니다!
+
 지난 날들의 기록
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/81913386/162409909-082ce352-1e4c-4182-bce7-94434706c724.png">
