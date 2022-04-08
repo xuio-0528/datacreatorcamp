@@ -2,7 +2,9 @@
 김은기, 김혜림, 구은아, 김두범
 
 스터디 아카이빙은 아래 링크를 참조해주시면 됩니다
-<a href = "https://trusted-brook-b38.notion.site/0c2d6542b0174267b014e2752d351acb">
+
+<a href = "https://trusted-brook-b38.notion.site/0c2d6542b0174267b014e2752d351acb">https://trusted-brook-b38.notion.site/0c2d6542b0174267b014e2752d351acb</a>
+  
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e83462f5-84f8-4a7e-909f-788bdc381b9c/Untitled.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220408%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220408T091247Z&X-Amz-Expires=86400&X-Amz-Signature=0991f3db9bf8b3b08af3253fa73a58deb76619d44e32c16d5d3b1fd1ab3c615d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.jpeg%22&x-id=GetObject">
 
